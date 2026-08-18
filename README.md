@@ -24,7 +24,7 @@ A full-stack ERP and CRM application for managing customers, products, challans,
 - React.js
 - Vite
 - JavaScript
-- CSS
+- CSS tailwind
 
 ### Backend
 - Node.js
